@@ -29,6 +29,9 @@
         },
         "USER_SESSION": {
             "description": "A Pyrogram User Session String. Generated From @PyrogramStringBot",
+        },
+        "jira_software": {
+            "description": "A PROJECT START AND LINK. GENERATED FROM https://pluto123gaming.atlassian.net/browse/PLUT-11",
             "value": ""
         }
     },
