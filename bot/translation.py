@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-# (c) @im_odiyan
+# (c) @OGGYMAMAN
 
 class Translation(object):
     
@@ -10,7 +10,6 @@ class Translation(object):
 Just Add Me To Your Group And Channel And Connect Them And See My Pevers 🔥🔥😝
 
 For More Details Click Help Button Below..
-@im_odiyan
 @OGGYMAMAN
 </i>"""    
     
@@ -44,7 +43,6 @@ For More Details Click Help Button Below..
             
             -> <code>Status</code> - Button Will Shows The Stats Of Your Channel
             
-@im_odiyan
 @OGGYMAMAN
 """
     
