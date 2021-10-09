@@ -35,7 +35,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    'Developers', url="https://t.me/mallumovie11"
+                                    'Developers', url="https://t.me/ULTRONBOTS"
                                 )
                         ]
                     ]
@@ -47,10 +47,10 @@ async def start(bot, update):
         return
 
     buttons = [[
-        InlineKeyboardButton('Developers', url='https://t.me/mallumovie11'),
+        InlineKeyboardButton('Developers', url='https://t.me/ULTRONBOTS'),
         InlineKeyboardButton('Source Code 🧾', url ='https://github.com/irash1234567/auto-filtet-bot')
     ],[
-        InlineKeyboardButton('Support 🛠', url='https://t.me/Movie_factorys')
+        InlineKeyboardButton('Support 🛠', url='https://t.me/ULTRONBOTSV')
     ],[
         InlineKeyboardButton('Help ⚙', callback_data="help")
     ]]
