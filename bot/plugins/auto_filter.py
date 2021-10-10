@@ -128,10 +128,10 @@ async def auto_filter(bot: Client, update: Message):
             )
         
     else:
-        return # ഇത് നിനക്ക് അല്ല നീ വേറെ ഒരു movie search ചെയ്യേ 
+        return # return if no files found for that query
     
 
-    if len(results) == 0: # ഇത് നിൻക്ക് അല്ല നീ വേറെ movie type ചെയ്യേ 
+    if len(results) == 0: # double check
         return
     
     else:
