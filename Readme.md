@@ -99,7 +99,7 @@ Do Fork And Star The Repository If You Liked It.
 
 ## Disclaimer
 [![GNU Affero General Public License v3.0](https://www.gnu.org/graphics/agplv3-155x51.png)](https://www.gnu.org/licenses/agpl-3.0.en.html#header)    
-Licensed under [GNU AGPL v3.0.](https://github.com/CrazyBotsz/Adv-Auto-Filter-Bot-V2/blob/main/LICENSE)
+Licensed under [GNU AGPL v3.0.](https://github.com/irash1234567/auto-filtet-bot/blob/main/LICENSE)
 Selling The Codes To Other People For Money Is *Strictly Prohibited*.
 
 
