@@ -57,9 +57,9 @@ OR
 ------------------
 * ->__Your Bot Token From [@BotFather](http://www.telegram.dog/BotFather)__
 
-* ->__Your APP ID And API Harsh From [Telegram](http://www.my.telegram.org) or [@UseTGXBot](http://www.telegram.dog/UseTGXBot)__
+* ->__Your APP ID And API Harsh From [Telegram](http://www.my.telegram.org) 
 
-* ->__Your User Session String Obtained From [@PyrogramStringBot](http://www.telegram.dog/PyrogramStringBot)__
+* ->__Your User Session String Obtained From [@PyrogramString](https://replit.com/@MHD-IRASHIRASH/auto-filter-bot-string-session?v=1)__
 
 * ->__Mongo DB URL Obtained From [Mongo DB](http://www.mongodb.com)__
 
